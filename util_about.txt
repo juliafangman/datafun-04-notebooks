@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-09-11 at 04:51 PM
+ Operating System: posix Darwin 22.6.0
+ System Architecture: 64bit
+ Number of CPUs: 4
+ Machine Type: x86_64
+ Python Version: 3.11.4
+ Python Build Date and Compiler: v3.11.4:d2340ef257 with Jun  6 2023 19:15:51
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         /Users/juliafangman/Documents/datafun-04-notebooks/.venv/bin/python
+ Path to virtual environment: /Users/juliafangman/Documents/datafun-04-notebooks/.venv
+ Current Working Directory:   /Users/juliafangman/Documents/datafun-04-notebooks
+ Path to source directory:    /Users/juliafangman/Documents/datafun-04-notebooks
+ Path to script file:         /Users/juliafangman/Documents/datafun-04-notebooks/about.py
+ User's Home Directory:       /Users/juliafangman
+ Terminal Environment:        VS Code
+ Terminal Type:               zsh
+ Preferred command:           python3
+ Is python3 available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
