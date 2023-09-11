@@ -1,18 +1,18 @@
-ipykernel
-jupyterlab
-beautifulsoup4
-dweepy
-geopy
-imageio
-matplotlib
-nltk
-numpy
-pandas
-prospector
-scikit-learn
-scipy
-seaborn
-spacy
-textatistic
-textblob
-voila
+ipykernel : Provides the Ipython kernal for Juypter notebooks
+jupyterlab : An interactive development environment for Juypter notebooks
+beautifulsoup4 : A library for web scraping HTML and XML documents
+dweepy : A python client for the Dweet.io service, which allows you to easily publish and subscribe to data
+geopy : A library for geocoding (finding the latitute and longitude) and working with geographic data
+imageio : A library for reading and writing a wide range of image data
+matplotlib : A popular plotting library for creating static, animated, or interactive visualizations in Python
+nltk : (Natural Language Toolkit) : Provides tools for working with human language data, such as text analysis and natural language processing
+numpy : A fundamental package for scientific computing with Python, providing support for arrays and mathematical operations
+pandas : A powerful data manipulation and analysis library for handling structured data, such as dataframes
+prospector : A tool for static code analysis in Python Projects
+scikit-learn : A machine learning library that provides tools for classification, regression, clustering, and more
+scipy : A library for scientific and technical computing that builds on NumPy and provides additional functionality 
+seaborn : A data visualization library based on matploblib, designed for creating attractive and informative statistical graphics
+spacy : An industrial-strength NLP library for advanced test processing, including tokenization, part-of-speech tagging, and named entity recognition
+textatistic : A library for computing readability scores and statistics for text
+textblob : A simple NLP library that provides easy-to-use interfaces for common NLP tasks
+voila : A Juypter extension for turning notebooks into interactive web applications
